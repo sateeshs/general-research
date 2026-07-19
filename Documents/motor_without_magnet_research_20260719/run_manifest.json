@@ -1,0 +1,18 @@
+{
+  "query": "How current motors are working with magnet. How to remove magnet from the motor and creates working motor without magnet.",
+  "mode": "standard",
+  "assumptions": [
+    "Technical audience with engineering interest",
+    "Focus on practical electric motor technologies rather than theoretical physics",
+    "Interest in both current magnet-based motor technology and magnet-free alternatives"
+  ],
+  "provider_config": {
+    "search": "WebSearch + DuckDuckGo browser",
+    "content_fetch": "WebFetch"
+  },
+  "total_sources": 11,
+  "total_evidence": 17,
+  "total_claims": 17,
+  "generated": "2026-07-19",
+  "output_directory": "/home/sateesh/Documents/motor_without_magnet_research_20260719"
+}
