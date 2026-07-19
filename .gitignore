@@ -1,0 +1,7 @@
+# Claude Code local settings
+.claude/settings.local.json
+.claude/Deep-Research-main/
+
+# OS
+.DS_Store
+Thumbs.db
