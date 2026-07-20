@@ -1,0 +1,61 @@
+{
+  "research_question": "What algorithms simulate magnets via software, and are there prototype projects with open-source code?",
+  "mode": "standard",
+  "date": "2026-07-19",
+  "assumptions": [
+    "Technical audience with basic engineering knowledge",
+    "Focus on open-source projects with publicly available code",
+    "Practical relevance: tools that can be downloaded and run",
+    "Three-scale approach: nanoscale (micromagnetic), macroscopic (FEM), system scale (analytical)"
+  ],
+  "sources_consulted": 12,
+  "source_types": {
+    "software_documentation": 5,
+    "open_source_software": 3,
+    "news": 1,
+    "technical_blog": 1,
+    "manufacturer_documentation": 1,
+    "research": 1
+  },
+  "search_queries": [
+    "finite element method FEM magnet simulation open source software code 2025 2026",
+    "virtual magnet software algorithm replace physical magnet motor control",
+    "FEM magnetostatic simulation open source C++ Python library github",
+    "Maxwell solver open source project electromagnetic simulation code repository",
+    "magnetic dipole simulation algorithm software computational magnet model",
+    "FEMM finite element method magnetics open source download github magnet design",
+    "BEM boundary element method magnet simulation open source",
+    "open source electromagnetic simulation github multipole expansion magnet model",
+    "Elmer FEM open source electromagnetic simulation magnet",
+    "spinmag SynRM reluctance motor software simulation control algorithm open source",
+    "open source motor control firmware VESC BLDC sensorless algorithm magnet simulation",
+    "getfem++ open source finite element Maxwell solver electromagnetic",
+    "simpeg open source electromagnetic simulation ground penetrating radar magnet",
+    "magpylib open source python magnetic field simulation github",
+    "oommf open source micromagnetic simulation framework magnet code",
+    "LLG landau lifshitz goldstein magnetization simulation algorithm python implementation",
+    "open source motor simulation Simulink alternative openmotors openelectrical FEM",
+    "FEniCS dolfinx open source finite element electromagnetic magnet simulation",
+    "open source magnetic circuit model simulation software permanent magnet alternative",
+    "python magnetostatic field calculation biot savart law open source library github",
+    "scikit-fem python open source finite element method library github",
+    "ansys Maxwell COMSOL alternative open source electromagnetic simulation software comparison 2025",
+    "open source magnetic field calculator dipole approximation python code github",
+    "jmag open source electromagnetic motor design simulation software",
+    "open source magnetic gear design simulation software algorithm code",
+    "open source magnetic bearing active control algorithm simulation code github",
+    "open source magnetic levitation maglev control algorithm simulation code github",
+    "vector control algorithm field oriented control FOC induction motor simulation open source python C",
+    "open source magnetic actuator simulation robot soft robot magnet control algorithm code"
+  ],
+  "phases_executed": ["SCOPE", "PLAN", "RETRIEVE", "TRIANGULATE", "SYNTHESIZE", "PACKAGE"],
+  "phases_skipped": ["CRITIQUE", "REFINE", "OUTLINE REFINEMENT"],
+  "average_credibility": 79.2,
+  "output_files": [
+    "report.md",
+    "sources.jsonl",
+    "evidence.jsonl",
+    "claims.jsonl",
+    "run_manifest.json"
+  ]
+}
